@@ -54,19 +54,3 @@ A análise revelou os seguintes resultados:
   - Grupo 3: **R$ 251.559**
 
 Conclusão: Apesar de o grupo 1 ter um menor número de vendas em relação aos outros grupos, o cashback mais baixo resultou em maior lucratividade. Assim, a taxa de **4,16% de cashback** é a mais vantajosa, gerando o maior lucro.
-
-## 👨‍💻 Autor
-
-**Vitor Hugo Muniz de Sousa Santos**
-
-💼 Engenheiro da Computação | Desenvolvedor Front-end
-
-📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
-🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
-
-## 📝 Licença
-
-Este projeto está licenciado sob a **MIT License**.
-Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
-
-⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**```
