@@ -1,5 +1,3 @@
-# Análise de Cashback Meliuz - Viabilidade de Investimento por Grupos
-
 ## Descrição do Projeto
 
 Este projeto realiza uma análise detalhada dos dados de cashback, com foco em determinar a viabilidade de investimento por grupos de usuários. O processo inclui a limpeza de duplicatas, remoção de valores nulos e tratamento de outliers, com o objetivo principal de calcular o lucro e a porcentagem de cashback de cada grupo com base nos dados fornecidos.
@@ -57,6 +55,18 @@ A análise revelou os seguintes resultados:
 
 Conclusão: Apesar de o grupo 1 ter um menor número de vendas em relação aos outros grupos, o cashback mais baixo resultou em maior lucratividade. Assim, a taxa de **4,16% de cashback** é a mais vantajosa, gerando o maior lucro.
 
-## Contato
+## 👨‍💻 Autor
 
-Se você tiver dúvidas ou sugestões, entre em contato por vitor13muniz09@gmail.com.
+**Vitor Hugo Muniz de Sousa Santos**
+
+💼 Engenheiro da Computação | Desenvolvedor Front-end
+
+📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**```
